@@ -24,3 +24,4 @@ A implementação deste projeto trouxe diversos benefícios, incluindo:
 - **Organização**: Os dados extraídos foram organizados em um DataFrame, facilitando a análise e a manipulação.
 
 Com projetos desse tipo, é possível transformar diversas ideias em realidade. No meu caso, utilizei os dados coletados para criar um painel de monitoramento que se atualiza automaticamente com as informações recebidas por e-mail.
+***
