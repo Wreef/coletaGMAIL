@@ -34,8 +34,9 @@ Aqui está um código genérico que pode ser utilizado para a extração de dado
 import os
 import pandas as pd
 from imap_tools import MailBox, AND
-Funções
 ```
+
+### Funções
 
 A função **baixarDados** extrai informações específicas do corpo do e-mail, como data, remetente e outras informações definidas (Informação 01, Informação 02, etc.), e as armazena no dicionário dic_infos.
 
