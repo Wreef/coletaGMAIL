@@ -113,3 +113,11 @@ for email in emails:
 df = pd.DataFrame(dic_infos)
 df.to_excel('Dados dos E-mails.xlsx')
 ```
+***
+## Debugando
+Este projeto é um exemplo de como a automação pode transformar tarefas rotineiras e demoradas em processos eficientes e precisos. A utilização de Python e suas bibliotecas permite a criação de uma solução robusta e escalável para a gestão de dados.
+
+Se você está enfrentando desafios semelhantes na sua rotina de trabalho, considere explorar as possibilidades de automação com Python. A eficiência e a precisão que você pode alcançar são surpreendentes!
+
+## Até mais!
+***
