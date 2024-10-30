@@ -118,6 +118,7 @@ df.to_excel('Dados dos E-mails.xlsx')
 Este projeto é um exemplo de como a automação pode transformar tarefas rotineiras e demoradas em processos eficientes e precisos. A utilização de Python e suas bibliotecas permite a criação de uma solução robusta e escalável para a gestão de dados.
 
 Se você está enfrentando desafios semelhantes na sua rotina de trabalho, considere explorar as possibilidades de automação com Python. A eficiência e a precisão que você pode alcançar são surpreendentes!
+O código completo está no [repositório](https://github.com/Wreef/coletaGMAIL/blob/main/app.py).
 
 ## Até mais!
 ***
